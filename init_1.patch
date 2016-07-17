@@ -1,0 +1,14 @@
+Index: src/com/meiling/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/meiling/Main.java	(date 1468741943000)
++++ src/com/meiling/Main.java	(revision )
+@@ -5,5 +5,6 @@
+     public static void main(String[] args) {
+ 	// write your code here
+         System.out.println("sadhasdasdas");
++        System.out.println("love");
+     }
+ }
